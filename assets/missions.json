@@ -45,7 +45,40 @@
           ]
         },
         {
-          "time": "
+          "time": "18:30",
+          "title": "到酒店／放低行李後",
+          "missions": [
+            {
+              "id": "0922-1830-main-room",
+              "type": "main",
+              "title": "房間開箱：入住儀式",
+              "description": "你負責開窗/拉簾；我負責揀一首「今次旅行主題歌」。",
+              "reward": "啟動成功｜今晚由我哋做主角"
+            },
+            {
+              "id": "0922-1830-side-konbini",
+              "type": "side",
+              "title": "便利店 3 選 1",
+              "description": "每人揀一樣「未食過」甜品/飲品；揀完先揭曉。",
+              "reward": "小驚喜完成｜BB 好識揀 😌"
+            }
+          ]
+        },
+        {
+          "time": "22:30",
+          "title": "睡前",
+          "missions": [
+            {
+              "id": "0922-2230-main-one-line",
+              "type": "main",
+              "title": "今日最開心：一句話",
+              "description": "各自寫一句「今日最開心係……」。",
+              "reward": "已封存｜呢句我會記好耐"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0923",
       "date": "2026/09/23",
