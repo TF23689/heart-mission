@@ -309,4 +309,9 @@
       showToast("出咗少少問題…", "你可以截圖畀我，我幫你執");
     }
   });
-})();
+})();document.addEventListener("DOMContentLoaded", async () => {
+  try {
+    showToast("載入任務中…", "如果你見到呢句＝JS 正常運作");
+    await initMissionsPage();
+    await initDayPage();
+  } catch (e) {
